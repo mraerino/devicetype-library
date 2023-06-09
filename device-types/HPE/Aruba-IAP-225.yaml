@@ -1,0 +1,18 @@
+---
+manufacturer: HPE
+model: Aruba IAP-225
+slug: hpe-aruba-iap-225
+part_number: IAP-225
+u_height: 0
+is_full_depth: false
+comments: "[Aruba 200 Series Datasheet](https://www.arubanetworks.com/assets/ds/DS_AP200Series.pdf)"
+console-ports:
+  - name: Console
+    type: rj-45
+interfaces:
+  - name: ENET 0
+    type: 1000base-t
+  - name: ENET 1
+    type: 1000base-t
+  - name: WiFi
+    type: ieee802.11ac
